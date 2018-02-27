@@ -1,3 +1,4 @@
+			=== RT-UTILITY BOT V1 Commands ===
 🡺 !spamjoin - a troll command, makes the bot join and leave very fast.
 🡺 !send - a troll command, sends a dm to another person using the bot.
 🡺 !play - plays a music from a youtube video ID, (example !play HERESAVIDEOID)
