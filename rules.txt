@@ -1,0 +1,10 @@
+🡺 !spamjoin - a troll command, makes the bot join and leave very fast.
+🡺 !send - a troll command, sends a dm to another person using the bot.
+🡺 !play - plays a music from a youtube video ID, (example !play HERESAVIDEOID)
+🡺 !join - makes the bot join the VC
+🡺 !leave - makes the bot leave the VC
+🡺 !ct - makes the bot countdown from 10.
+🡺 !ping - checks your ping.
+🡺 !invite - creates a temporarily invite. (3600s Lifetime, 10 Max Uses)
+
+🡺 !help 🡸 - Shows this page.
